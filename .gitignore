@@ -1,0 +1,1 @@
+vendor/\n.env\nnode_modules/\n/public/storage\n/storage/*.key\n/storage/app/public\n*.log

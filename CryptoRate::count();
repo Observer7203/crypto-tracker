@@ -1,0 +1,50 @@
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#6281
+    [34mall[39m: [
+      [34;4mApp\Models\CryptoPair[39;24m {#6242
+        [34mid[39m: [35m1[39m,
+        [34mbase_currency[39m: "[32mBTC[39m",
+        [34mquote_currency[39m: "[32mUSDT[39m",
+        [34mis_active[39m: [35m1[39m,
+        [34mupdate_interval[39m: [35m1[39m,
+        [34mcurrent_price[39m: "[32m85692.8200000000[39m",
+        [34mcreated_at[39m: "[32m2025-04-15 09:29:19[39m",
+        [34mupdated_at[39m: "[32m2025-04-15 09:39:16[39m",
+      },
+      [34;4mApp\Models\CryptoPair[39;24m {#6292
+        [34mid[39m: [35m2[39m,
+        [34mbase_currency[39m: "[32mSOL[39m",
+        [34mquote_currency[39m: "[32mUSDT[39m",
+        [34mis_active[39m: [35m1[39m,
+        [34mupdate_interval[39m: [35m1[39m,
+        [34mcurrent_price[39m: [36mnull[39m,
+        [34mcreated_at[39m: "[32m2025-04-15 09:49:40[39m",
+        [34mupdated_at[39m: "[32m2025-04-15 09:49:40[39m",
+      },
+    ],
+  }
+
+[90m= [39m[34;4mIlluminate\Database\Eloquent\Collection[39;24m {#2270
+    [34mall[39m: [
+      [34;4mApp\Models\CryptoPair[39;24m {#6179
+        [34mid[39m: [35m1[39m,
+        [34mbase_currency[39m: "[32mBTC[39m",
+        [34mquote_currency[39m: "[32mUSDT[39m",
+        [34mis_active[39m: [35m1[39m,
+        [34mupdate_interval[39m: [35m1[39m,
+        [34mcurrent_price[39m: "[32m85692.8200000000[39m",
+        [34mcreated_at[39m: "[32m2025-04-15 09:29:19[39m",
+        [34mupdated_at[39m: "[32m2025-04-15 09:39:16[39m",
+      },
+      [34;4mApp\Models\CryptoPair[39;24m {#6180
+        [34mid[39m: [35m2[39m,
+        [34mbase_currency[39m: "[32mSOL[39m",
+        [34mquote_currency[39m: "[32mUSDT[39m",
+        [34mis_active[39m: [35m1[39m,
+        [34mupdate_interval[39m: [35m1[39m,
+        [34mcurrent_price[39m: [36mnull[39m,
+        [34mcreated_at[39m: "[32m2025-04-15 09:49:40[39m",
+        [34mupdated_at[39m: "[32m2025-04-15 09:49:40[39m",
+      },
+    ],
+  }
+
